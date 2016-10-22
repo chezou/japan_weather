@@ -1,0 +1,44 @@
+[
+  {
+    "prec_ch": "東京都",
+    "prec_no": 44,
+    "block_ch": "東京",
+    "block_no": 47662
+  },
+  {
+    "prec_no": 62,
+    "prec_ch": "大阪府",
+    "block_no": 47772,
+    "block_ch": "大阪"
+  },
+  {
+    "prec_no": 14,
+    "block_no": 47412,
+    "prec_ch": "北海道",
+    "block_ch": "札幌"
+  },
+  {
+    "prec_no": 82,
+    "block_no": 47807,
+    "prec_ch": "福岡県",
+    "block_ch": "福岡"
+  },
+  {
+    "prec_no": 61,
+    "block_no": 47759,
+    "prec_ch": "京都府",
+    "block_ch": "京都"
+  },
+  {
+    "prec_no": 91,
+    "block_no": 47936,
+    "prec_ch": "沖縄県",
+    "block_ch": "那覇"
+  },
+  {
+    "prec_no": 99,
+    "block_no": 89532,
+    "prec_ch": "南極",
+    "block_ch": "昭和（南極）"
+  }
+]
